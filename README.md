@@ -1,0 +1,1 @@
+Automatically chooses translated Spanish subtitles
